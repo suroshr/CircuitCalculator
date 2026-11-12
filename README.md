@@ -2,8 +2,6 @@
 
 A command-line calculator for **resistor color codes**, **Ohm's Law**, **series and parallel resistance**, **current and voltage dividers**, and **power**.
 
-I built this to practice for circuits courses in electrical engineering, where these calculations come up all the time.
-
 ## Features
 
 - Read a 4-band resistor's value and tolerance from its colors
