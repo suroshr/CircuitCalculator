@@ -96,8 +96,6 @@ Adding a new calculator only means writing its file and adding one line to the m
 
 ## Flowchart
 
-![Flowchart](CircuitCalculator_FlowChart.png)
-
 A PDF version is in [`CircuitCalculator_FlowChart.pdf`](CircuitCalculator_FlowChart.pdf).
 
 ## Notes
